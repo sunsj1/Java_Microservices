@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;UserResource.java&apos; to &apos;com.practice.webaervice.restful_web_services.user.UserResource.java&apos;&#x0D;&#x0A;- Original project: &apos;restful_web_services&apos;&#x0D;&#x0A;- Destination element: &apos;com.practice.webaervice.restful_web_services.user.UserResource.java&apos;&#x0D;&#x0A;- Original element: &apos;com.practice.webaervice.restful_web_services.user.UserResource.java&apos;" description="Copy compilation unit" destination="/src\/main\/java&lt;com.practice.webaervice.restful_web_services.user{UserResource.java" element1="/src\/main\/java&lt;com.practice.webaervice.restful_web_services.user{UserResource.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1642910871864" units="1" version="1.0"/>
+</session>
